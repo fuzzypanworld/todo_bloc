@@ -9,7 +9,7 @@ import 'package:todo_bloc/todo.dart';
 import 'package:todo_bloc/todo_repo.dart';
 
 void main() async {
-  // Ensure Flutter testing is initialized
+
   TestWidgetsFlutterBinding.ensureInitialized();
 
   // Set up Isar for testing
